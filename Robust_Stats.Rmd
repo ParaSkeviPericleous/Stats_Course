@@ -947,6 +947,8 @@ $P(H_{0}| n_{H}) = \frac{P(n_{H}|H_{0}) P(H_{0})}{P(n_{H}|H_{0}) P(H_{0}) + P(n_
 
 # Linear Regression (statsmodels)
 
+## Correlation
+
 ## Linear Model
 
 ```{python}
